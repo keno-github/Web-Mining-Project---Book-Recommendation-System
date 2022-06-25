@@ -13,4 +13,4 @@ https://github.com/AustinChen123/WebMining
 
 # Final Report
 
-The final report is also attached
+The final report is also attached as WebMining_Project_team_6.pdf
